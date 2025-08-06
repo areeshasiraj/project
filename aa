@@ -1,0 +1,29 @@
+String function:
+sare prhna mushkil h hum wo prheingey jo imp h string ke liye
+
+frquenctly use function
+
+there are two catogries
+common function
+specific function
+
+common me ye sbke liye hoty h like string list tupple ya bht kuch
+
+
+common function:
+len 
+max
+min 
+sorted
+
+mtlb ye wo hai ke jo sb pr chlty hain agar kisi string ki max maloom krna h tw ap max hai
+agar ap ko min krna hai tw min dekhlo
+
+jese a min hai b max
+
+sorted me ascending krna hota hai wo list ki foam me ascending at hain
+
+sorted(c,reverse=true) issy hum descending me convert hojaty hain 
+simply 
+by default ascending me hota hai 
+ 
